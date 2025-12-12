@@ -1,0 +1,1 @@
+namespace ZooObject.AnimalBase { public abstract class Lizard : Animal { public Lizard(string n,string s):base(n,s){HasTail=true;} } }

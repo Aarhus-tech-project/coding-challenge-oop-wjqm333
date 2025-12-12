@@ -1,0 +1,1 @@
+namespace ZooObject.Interfaces { public interface IMilkProducer { void ProduceMilk(); } }

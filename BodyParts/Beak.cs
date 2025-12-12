@@ -1,0 +1,1 @@
+namespace ZooObject.BodyParts { public class Beak { public string Shape; public Beak(string s){Shape=s;} } }

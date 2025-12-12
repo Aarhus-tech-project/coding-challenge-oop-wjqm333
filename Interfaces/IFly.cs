@@ -1,0 +1,1 @@
+namespace ZooObject.Interfaces { public interface IFly { void Fly(); } }

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooObjectFixed", "ZooObjectFixed.csproj", "{4DF9D198-096C-CC80-2F59-23AE1F14294E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF9D198-096C-CC80-2F59-23AE1F14294E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF9D198-096C-CC80-2F59-23AE1F14294E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF9D198-096C-CC80-2F59-23AE1F14294E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF9D198-096C-CC80-2F59-23AE1F14294E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE800C94-36DC-4F33-8861-5FCFC3862568}
+	EndGlobalSection
+EndGlobal

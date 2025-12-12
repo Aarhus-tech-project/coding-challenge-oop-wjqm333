@@ -1,0 +1,1 @@
+namespace ZooObject.BodyParts { public class Legs { public int Count; public Legs(int c){Count=c;} } }

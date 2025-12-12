@@ -1,0 +1,1 @@
+namespace ZooObject.AnimalBase { public abstract class Bird : Animal { public Bird(string n,string s):base(n,s){WingCount=2;HasBeak=true;} } }

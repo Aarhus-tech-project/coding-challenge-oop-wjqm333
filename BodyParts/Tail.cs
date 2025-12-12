@@ -1,0 +1,1 @@
+namespace ZooObject.BodyParts { public class Tail { public string Type; public Tail(string t){Type=t;} } }

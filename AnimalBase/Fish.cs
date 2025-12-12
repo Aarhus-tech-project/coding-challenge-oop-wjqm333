@@ -1,0 +1,1 @@
+namespace ZooObject.AnimalBase { public abstract class Fish : Animal { public Fish(string n,string s):base(n,s){LegCount=0;} } }

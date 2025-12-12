@@ -1,0 +1,14 @@
+C:\Users\wjqm3\Downloads\ZooObjectFixed\bin\Debug\net8.0\ZooObjectFixed.exe
+C:\Users\wjqm3\Downloads\ZooObjectFixed\bin\Debug\net8.0\ZooObjectFixed.deps.json
+C:\Users\wjqm3\Downloads\ZooObjectFixed\bin\Debug\net8.0\ZooObjectFixed.runtimeconfig.json
+C:\Users\wjqm3\Downloads\ZooObjectFixed\bin\Debug\net8.0\ZooObjectFixed.dll
+C:\Users\wjqm3\Downloads\ZooObjectFixed\bin\Debug\net8.0\ZooObjectFixed.pdb
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ZooObjectFixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ZooObjectFixed.AssemblyInfoInputs.cache
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ZooObjectFixed.AssemblyInfo.cs
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ZooObjectFixed.csproj.CoreCompileInputs.cache
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ZooObjectFixed.dll
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\refint\ZooObjectFixed.dll
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ZooObjectFixed.pdb
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ZooObjectFixed.genruntimeconfig.cache
+C:\Users\wjqm3\Downloads\ZooObjectFixed\obj\Debug\net8.0\ref\ZooObjectFixed.dll
